@@ -44,6 +44,21 @@ CodeCoverage/
 # MSBuild Binary and Structured Log
 *.binlog
 
+# .VS
+.vs/
+/.vs
+.vs*
+
+# obj 
+obj/
+/obj
+obj*
+
+# Bin
+bin/
+/bin
+bin*
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
